@@ -91,3 +91,17 @@ hr {
   border-top: 2px dotted #bbb;
   margin: 3rem 0;
 }
+
+pre {
+  @apply my-4 rounded overflow-x-auto;
+}
+
+pre code {
+  @apply block py-4 min-w-max;
+}
+
+
+pre code .line-number,
+pre code .summary-caret {
+  @apply mr-4;
+}
