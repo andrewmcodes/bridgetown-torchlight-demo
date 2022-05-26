@@ -3,7 +3,15 @@ layout: page
 title: "Welcome to your new Bridgetown website"
 ---
 
-> Tutorial coming soon to [andrewm.codes](https://andrewm.codes/)
+## Tutorial
+
+I will write up a tutorial for adding Torchlight to your own site soon on my personal website: [andrewm.codes](https://andrewm.codes/)! 🎉
+
+In the meantime, you can view the [single commit that added Torchlight to the repository](https://github.com/andrewmcodes/bridgetown-torchlight-demo/commit/b1fe9fec61da4e980f61a70d0a4507f055262164).
+
+S/O to [Aaron](https://twitter.com/aarondfrancis) for creating a great highlighting experience!
+
+Keep up to date with me on [Twitter](https://twitter.com/andrewmcodes) or [on my website](https://andrewmcodes.com).
 
 ## [Bridgetown](https://bridgetownrb.com/)
 
