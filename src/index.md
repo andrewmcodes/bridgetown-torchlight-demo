@@ -27,7 +27,11 @@ _Have fun and **good luck**!_
 
 ## [Torchlight](https://torchlight.dev)
 
-Can be run as a hook on every build, but this can occasionally put you into a weird state where you have to reload to see the changes.
+There are multiple ways you can run Torchlight with Bridgetown.
+
+You can run Torchlight as a separate process with their watch command.
+
+Can also be run as a hook on every build, but this can occasionally put you into a weird state where you have to reload to see the changes.
 
 ```ruby
 class Builders::Torchlight < SiteBuilder
